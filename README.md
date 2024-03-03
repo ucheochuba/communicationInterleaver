@@ -3,15 +3,4 @@
 uochuba@cs.stanford.edu \
 Stanford University Department of Computer Science
 
-
-
-
-This repository contains the code written and used for the TreeFormers paper. This project involved employing vision transformer (ViT) architectures for image classification. I worked on creating various models to classify a dataset of over 2,750 satellite images of Indonesia by the deforestation driver.
-
-**data_loaders** - various scripts used to load, modify, and format data for training transformers.
-
-**lr_baseline** - interactive Python notebook containing code written to establish a logistic regression baseline, based on research from online and course materials.
-
-**pre_trained_transformers** - contains engine code used to train and test pre-trained, fine-tuned vision transformers.
-
-**scratch_transformer** - contains code adapted from Meta Platforms that was done in an attempt to train ViT from scratch.
+I used Python and NumPy to create a communication interleaver that could prevent bitflip errors across communication channels. The project uses convolutional encoding and Viterbi decoding. I used the concepts learned in class to create this custom project which is all my own work.
